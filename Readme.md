@@ -16,7 +16,7 @@ It includes a sample `.learning` file that you can open in DraftPlan and a `docs
 ## Quickstart
 
 1. Open DraftPlan in your browser: https://draftplan.work
-2. (Optional) Sign in (top-right) to save your work in the cloud.
+2. (Optional) Sign in (top-right) to start using the app. Pro features are allow trial for 30 days, but you can use the free version to open and edit plans as well.
 3. Import the example plan:
 	- Use the `File` menu → `Open`and select `examples/Learning-Algorithm-Machine-Learning.learning` from this repo.
 4. Explore the graph on the left; edit notes on the right. You can write in Markdown, attach references, and structure topics hierarchically.
@@ -25,7 +25,7 @@ It includes a sample `.learning` file that you can open in DraftPlan and a `docs
 	- Mermaid diagrams for visual models.
 	- Quiz/Timeline views to test understanding or sequence milestones.
 6. Save or export your changes:
-	- From `File`, choose save/export to download the updated `.learning` file and commit it back to your repo.
+	- From `File`, choose **Save/Save As** to download the updated `.learning` file and commit it back to your repo.
 
 ## Customize
 
